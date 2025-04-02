@@ -6,4 +6,4 @@ if 1<=N<=150:
             continue
         if i>100:
             break
-        print(i) 
+        print(i)
